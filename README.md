@@ -1,7 +1,7 @@
 # ChatGPT Plus - US Veterans Verification Tool
 
 ## 📋 Deskripsi
-Alat otomatis untuk verifikasi veteran militer AS guna mendapatkan akses ChatGPT Plus secara gratis melalui program OpenAI untuk veteran. Tool ini menangani seluruh proses verifikasi secara otomatis, termasuk pembuatan email sementara, pengecekan inbox, dan verifikasi token.
+Alat otomatis untuk verifikasi veteran militer AS yang berguna untuk mendapatkan akses ChatGPT Plus secara gratis melalui program OpenAI untuk veteran. Tool ini menangani seluruh proses verifikasi secara otomatis, termasuk pembuatan email sementara, pengecekan inbox, dan verifikasi token.
 
 ## ⚡ Fitur Utama
 - ✅ **Proses otomatis lengkap** - dari awal hingga selesai
