@@ -102,7 +102,7 @@ MICHAEL|WILLIAMS|Navy|1992-08-10|2024-01-10
 
 **Catatan Penting:**
 - Tanggal keluar harus dalam **12 bulan terakhir** untuk memenuhi syarat
-- Tahun lahir **disarankan tidak di bawah 1979**
+- Tahun lahir **disarankan tidak di bawah 1969**
 - **Tanggal keluar rumah sakit** harus valid dan realistis
 
 ## 🎮 Cara Penggunaan
