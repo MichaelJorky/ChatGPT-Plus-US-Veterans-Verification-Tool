@@ -271,7 +271,7 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE)
 - [OpenAI Documentation](https://platform.openai.com/docs)
 - [SheerID Verification Service](https://www.sheerid.com/)
 - [Guerrilla Mail API](https://www.guerrillamail.com/GuerrillaMailAPI.html)
-- [US Veterans - Wikipedia](https://en.wikipedia.org/wiki/Special:Search?go=Go&search=US+Veterans&ns0=1)
+- [US Veterans Referencea](https://en.wikipedia.org/wiki/Special:Search?go=Go&search=US+Veterans&ns0=1)
 
 ---
 
