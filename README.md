@@ -157,17 +157,17 @@ python script.py --list-domains
 [INFO] Loaded 5 records
 [INFO] Using random domain mode (13 domains)
 
-[1/5] JOHN SMITH (Army)
+[1/5] Daniel Gade (Army)
 --------------------------------------------------
    -> Creating verification request...
-   [EMAIL TEMPORARY] Generated via API: john123@sharklasers.com
+   [EMAIL TEMPORARY] Generated via API: danielgade123@sharklasers.com
    [OK] Verification ID: abc123def456
    -> Submitting military status (VETERAN)...
    [OK] Status submitted
    -> Submitting personal info...
    [OK] Personal info submitted - Step: emailLoop
    -> Waiting for verification email (auto-checking via API)...
-   [EMAIL TEMPORARY] Polling inbox for: john123@sharklasers.com
+   [EMAIL TEMPORARY] Polling inbox for: danielgade1123@sharklasers.com
    [EMAIL TEMPORARY] Found verification email (ID: 12345)
    [EMAIL TEMPORARY] Link extracted after 12s!
    -> Submitting email token: 654321...
