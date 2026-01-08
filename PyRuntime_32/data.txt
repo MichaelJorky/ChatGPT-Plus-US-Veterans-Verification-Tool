@@ -1,3 +1,29 @@
-JOHN|SMITH|Army|1990-05-15|2023-06-01
-DAVID|JOHNSON|Marine Corps|1988-12-20|2022-03-15
-MICHAEL|WILLIAMS|Navy|1992-08-10|2024-01-10
+Daniel|Gade|Army|1975-02-07|2017-12-11
+Ruben|Gallego|Marine Corps Reserve|1979-11-20|2006-11-07
+Pete|Hegseth|Air National Guard|1980-06-06|2021-09-18
+Anthony|Woods|Army|1980-07-20|2014-12-23
+Sam|Brown|Army|1983-10-15|2011-11-07
+Dakota|Meyer|Marine Corps Reserve|1988-06-26|2025-09-11
+Graham|Platner|Marine Corps|1984-09-01|2018-12-03
+Brian|Mast|Army|1980-07-10|2011-12-03
+Donald|Remy|Army|1967-02-08|1995-11-12
+Jay|Collins|Army|1976-04-28|2018-11-17
+Tim|Sheehy|Navy|1985-11-18 2019-10-12
+Dan|Crenshaw|Navy|1984-03-14|2016-09-22
+Tulsi|Gabbard|Army|Reserve|1981-04-12|2003-12-17
+Michael|Hastings|Army|1980-10-06|2008-11-25
+Heather|Penney|Air National Guard|1974-09-18|2016-07-25
+Britt|Kelly Slabinski|Navy|1969-12-01|2014-05-24
+Dakota|Louis Meyer|Marine Corps|1988-06-26|2010-10-29
+Kyle|Jerome White|Army|1987-01-01|2011-10-01
+William|Kyle Carpenter|Marine Corps|1989-10-17|2013-04-24
+Leroy|Arthur Petry|Army|1979-07-29|2009-06-16
+Ronald|Joseph Shurer|Army|1978-01-01|2009-12-14
+Salvatore|Augustine Giunta|Army|1985-01-21|2011-07-28
+Ty|Michael Carter|Army|1980-01-25|2014-09-08
+William|D. Swenson|Army|1979-11-02|2025-06-09
+Ryan|Pitts|Army|1985-01-01|2009-11-04
+Clinton|Romesha|Army|1981-08-01|2011-04-18
+Reality|Winner|Air Force|1991-12-04|2016-09-05
+Nicole|Gee|Marine Corps|1998-05-01|2021-11-12
+Wes|Moore|Army|1978-10-15|2014-08-12
