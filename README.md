@@ -90,9 +90,9 @@ NamaDepan|NamaBelakang|Cabang|TanggalLahir|TanggalKeluar
 
 **Contoh:**
 ```
-JOHN|SMITH|Army|1990-05-15|2023-06-01
-DAVID|JOHNSON|Marine Corps|1988-12-20|2022-03-15
-MICHAEL|WILLIAMS|Navy|1992-08-10|2024-01-10
+Daniel|Gade|Army|1975-02-07|2017-12-11
+Ruben|Gallego|Marine Corps Reserve|1979-11-20|2006-11-07
+Pete|Hegseth|Air National Guard|1980-06-06|2021-09-18
 ```
 
 **Cabang yang Didukung:**
