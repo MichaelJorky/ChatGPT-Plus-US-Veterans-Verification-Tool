@@ -273,7 +273,7 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE)
 - [Guerrilla Mail API](https://www.guerrillamail.com/GuerrillaMailAPI.html)
 - [US Veterans Reference](https://en.wikipedia.org/wiki/Special:Search?go=Go&search=US+Veterans&ns0=1)
 - [Military Fandom Reference](https://military-history.fandom.com/wiki/Main_Page)
-- [SheerID Verification Assistant via Web](https://ip123.in/sheerid/)
+- [SheerID Verification Assistant via Web](https://ip123.in/sheerid/) **(Recommended)**
 
 ---
 
